@@ -1,3 +1,0 @@
-- *Git is a version control system which is used to maintain the history of a project*
-- *By using Github we can share our projects with other peoples from different countries across the world.*
-- *people use this tool to collaborate with each other so that different developers from different countries work on some projects. Many big organization and institutes used this tool to collobarate with each other.*
